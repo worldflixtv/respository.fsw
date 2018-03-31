@@ -22,9 +22,9 @@
                 <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
                 <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
             </dir>
-		<info compressed="false">https://raw.githubusercontent.com/worldflixtv/repository.doge/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/worldflixtv/repository.doge/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/worldflixtv/repository.doge/master/zips/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/worldflixtv/repository.fsw/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/worldflixtv/repository.fsw/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/worldflixtv/repository.fsw/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">FireTV Stick World</summary>
